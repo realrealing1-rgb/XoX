@@ -1,0 +1,6 @@
+{
+  "name": "Tahta: 13 XoX ve Izgara Strateji Oyunu",
+  "description": "Klasik XoX, Süper XoX, Sonsuz XoX, Gobblet, Sayısal 15, Gomoku, Dörtlü Hiza, SOS, Kutu Kapmaca ve Reversi dahil 13 taktiksel masa oyunu koleksiyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
